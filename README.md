@@ -1,6 +1,4 @@
 <h1>Inventory Management System</h1> <br><br>
-<h3>Description</h3>
-
 
 <h3>Features</h3>
 
