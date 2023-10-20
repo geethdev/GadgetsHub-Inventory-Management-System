@@ -9,3 +9,6 @@
 
 ![5n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/a171de06-262a-45c4-a359-5c52fa001635)
 
+![6n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/715aa98b-5460-4eab-87ca-cb616ed00743)
+
+
