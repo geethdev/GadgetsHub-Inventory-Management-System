@@ -1,6 +1,6 @@
 <h1>Inventory Management System</h1> <br><br>
 <h3>Description</h3>
-This Inventory Management System is our 1st year C# project developed for an undergraduate software engineering course. It allows you to efficiently manage inventory, making it easier to track and control the items in your stock. <br><br>
+
 
 <h3>Features</h3>
 
