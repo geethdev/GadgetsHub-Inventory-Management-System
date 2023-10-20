@@ -17,5 +17,8 @@
 
 ![9n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/93dc2abb-01bb-40d9-83df-68fa9326a290)
 
+![10n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/71de2bda-f65c-400e-ae95-60b9675d84fb)
+
+
 
 
