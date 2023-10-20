@@ -1,22 +1,41 @@
-<h1>Inventory Management System</h1>
-
+<h1>Inventory Management System</h1> <br><br>
 <h3>Description</h3>
-<h5>This Inventory Management System is our 1st year C# project developed for an undergraduate software engineering course. It allows you to efficiently manage inventory, making it easier to track and control the items in your stock.</h5>
+This Inventory Management System is our 1st year C# project developed for an undergraduate software engineering course. It allows you to efficiently manage inventory, making it easier to track and control the items in your stock. <br><br>
 
 <h3>Features</h3>
 
-<h5>Add new products to the inventory.<br>
+Add new products to the inventory.<br>
 Update product details, including name, description, price, and quantity.<br>
 Remove products from the inventory.<br>
-Search for products by name or category.<br></h5>
+Search for products by name or category.<br><br>
 
 
 <h3>Technologies</h3>
-<h5>C# (Programming Language) <br>
-.NET Framework (Runtime Environment) <br>
-SQL Server (Database) <br>
-Windows Forms (User Interface) <br></h5>
+1. C# (Programming Language) <br>
+2. .NET Framework (Runtime Environment) <br>
+3. SQL Server (Database) <br>
+4. Windows Forms (User Interface) <br><br>
 
+<h3>Getting Started</h3>
+To get started with this project on your local machine, follow these steps:
+
+1. Clone the repository to your computer:
+git clone https://github.com/geethdev/GadgetsHub-Inventory-Management-System.git <br>
+
+2. Open the project in Visual Studio or your preferred C# IDE. <br>
+
+3. Restore NuGet packages and build the project.<br>
+
+4. Run the application.<br><br>
+
+<h3>Contributing</h3>
+If you want to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure the code style and tests pass.
+4. Create a pull request with a clear description of your changes.
+<br> <br>
 
 
 Admin Dashboard
