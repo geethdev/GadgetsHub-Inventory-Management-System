@@ -1,5 +1,24 @@
 <h1>Inventory Management System</h1>
 
+<h3>Description</h3>
+<h5>This Inventory Management System is our 1st year C# project developed for an undergraduate software engineering course. It allows you to efficiently manage inventory, making it easier to track and control the items in your stock.</h5>
+
+<h3>Features</h3>
+
+<h5>Add new products to the inventory.<br>
+Update product details, including name, description, price, and quantity.<br>
+Remove products from the inventory.<br>
+Search for products by name or category.<br></h5>
+
+
+<h3>Technologies</h3>
+<h5>C# (Programming Language) <br>
+.NET Framework (Runtime Environment) <br>
+SQL Server (Database) <br>
+Windows Forms (User Interface) <br></h5>
+
+
+
 Admin Dashboard
 ![1n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/b4e49701-5d2c-4f05-a9f8-e31e8fa535e1)
 <br> <br>
