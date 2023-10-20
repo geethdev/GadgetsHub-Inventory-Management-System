@@ -1,5 +1,11 @@
 # GadgetsHub Inventory Management System
-![1687843326885](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/9251901b-f8b7-4562-9d05-52d6e2ac3151)
+![1n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/b4e49701-5d2c-4f05-a9f8-e31e8fa535e1)
 
-![1687843326947](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/a260f5ea-670a-41ef-b696-4e9ec62ba7c1)
+![2n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/a29d7325-1fda-42ed-9f76-0c67ace45aba)
+
+![3n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/504fb8bf-da50-4d65-92cd-9d1ee99cf1fe)
+
+![4n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/5aad34b6-cd32-41c4-9a39-d1abba58b343)
+
+![5n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/a171de06-262a-45c4-a359-5c52fa001635)
 
