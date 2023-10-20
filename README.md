@@ -1,1 +1,1 @@
-# Gadget-Hub
+# GadgetsXpress Inventory Management System
