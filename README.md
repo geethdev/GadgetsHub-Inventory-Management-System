@@ -1,4 +1,6 @@
 # GadgetsHub Inventory Management System
+
+Admin Dashboard
 ![1n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/b4e49701-5d2c-4f05-a9f8-e31e8fa535e1)
 
 ![10n](https://github.com/geethdev/GadgetsHub-Inventory-Management-System/assets/75660243/71de2bda-f65c-400e-ae95-60b9675d84fb)
