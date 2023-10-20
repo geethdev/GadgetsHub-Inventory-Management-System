@@ -1,0 +1,66 @@
+C:\Users\ASUS\source\repos\BdProject\BdProject\bin\Debug\BdProject.exe.config
+C:\Users\ASUS\source\repos\BdProject\BdProject\bin\Debug\BdProject.exe
+C:\Users\ASUS\source\repos\BdProject\BdProject\bin\Debug\BdProject.pdb
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.exe
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.pdb
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.frmuUserDashboard.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmUsers.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmAdminDashBoard.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmLogin.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmCategories.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmProducts.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmDeaCust.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmPurchaseAndSales.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.csproj.CopyComplete
+C:\Users\ASUS\source\repos\BdProject\BdProject\bin\Debug\Guna.UI.dll
+C:\Users\ASUS\source\repos\BdProject\BdProject\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmTransactions.resources
+C:\Users\ASUS\source\repos\BdProject\BdProject\obj\Debug\BdProject.UI.frmInventory.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\bin\Debug\BdProject.exe.config
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\bin\Debug\BdProject.exe
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\bin\Debug\BdProject.pdb
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmAdminDashBoard.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmCategories.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmInventory.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmPurchaseAndSales.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmDeaCust.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmLogin.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmProducts.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmTransactions.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.UI.frmUsers.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.frmuUserDashboard.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.exe
+C:\Users\ASUS\OneDrive - NSBM\Desktop\BdProjectMay26\BdProject\BdProject\obj\Debug\BdProject.pdb
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\bin\Debug\BdProject.exe.config
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\bin\Debug\BdProject.exe
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\bin\Debug\BdProject.pdb
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmAdminDashBoard.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmCategories.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmInventory.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmPurchaseAndSales.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmDeaCust.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmLogin.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmProducts.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmTransactions.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.UI.frmUsers.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.frmuUserDashboard.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.Properties.Resources.resources
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.csproj.CopyComplete
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.exe
+C:\Users\ASUS\OneDrive - NSBM\Desktop\GadgetsXpress\GadgetXpress\BdProject\obj\Debug\BdProject.pdb
