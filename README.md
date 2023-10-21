@@ -3,15 +3,22 @@
 <h3>Features</h3>
 
 1. Add new products to the inventory.<br>
+
 2. Update product details, including name, description, price, and quantity.<br>
+
 3. Remove products from the inventory.<br>
+
 4. Search for products by name or category.<br><br>
 
 
 <h3>Technologies</h3>
+
 1. C# (Programming Language) <br>
-2. .NET Framework (Runtime Environment) <br>
+
+2. NET Framework (Runtime Environment) <br>
+
 3. SQL Server (Database) <br>
+
 4. Windows Forms (User Interface) <br><br>
 
 <h3>Getting Started</h3>
@@ -29,10 +36,13 @@ git clone https://github.com/geethdev/GadgetsHub-Inventory-Management-System.git
 <h3>Contributing</h3>
 If you want to contribute to this project, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and ensure the code style and tests pass.
-4. Create a pull request with a clear description of your changes.
+1. Fork the repository. <br>
+
+2. Create a new branch for your feature or bug fix.<br>
+
+3. Make your changes and ensure the code style and tests pass.<br>
+
+4. Create a pull request with a clear description of your changes.<br>
 <br> <br>
 
 
