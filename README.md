@@ -2,10 +2,10 @@
 
 <h3>Features</h3>
 
-Add new products to the inventory.<br>
-Update product details, including name, description, price, and quantity.<br>
-Remove products from the inventory.<br>
-Search for products by name or category.<br><br>
+1. Add new products to the inventory.<br>
+2. Update product details, including name, description, price, and quantity.<br>
+3. Remove products from the inventory.<br>
+4. Search for products by name or category.<br><br>
 
 
 <h3>Technologies</h3>
