@@ -12,9 +12,9 @@
 
 5. Show inventory and all the transaction details in separate grids.
 
-4. Search for products, users, dealers, and customers by name or id.<br><br>
+4. Search for products, users, dealers, and customers by name or id.<br>
 
-5. Calculate purchase and sales.
+5. Calculate purchase and sales. <br><br>
 
 
 <h3>Technologies</h3>
@@ -35,7 +35,7 @@
 
 3. Microsoft Visual Studio <br>
 
-4. Git & Github (Version Control)<br>
+4. Git & Github (Version Control)<br><br>
 
 <h3>Getting Started</h3>
 To get started with this project on your local machine, follow these steps:
@@ -47,14 +47,14 @@ git clone https://github.com/geethdev/GadgetsHub-Inventory-Management-System.git
 
 3. Restore NuGet packages and build the project. <br>
 
-4. Run the application.<br><br>
+4. Run the application.<br>
 
 5. Admin credentials - <br>
   username = admin <br>
    password = admin <br>
 7. User credentials - <br>
   username = user <br>
-   password = user <br>
+   password = user <br><br>
 
 <h3>Contributing</h3>
 If you want to contribute to this project, follow these steps:
